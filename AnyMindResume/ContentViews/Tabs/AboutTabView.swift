@@ -67,7 +67,7 @@ struct AboutTabView: View {
     }
 }
 
-// MARK: - Preview UI 
+// MARK: - Preview UI  
 struct AboutTabView_Previews: PreviewProvider {
     static var previews: some View {
         AboutTabView(manager: PDFManager())
